@@ -272,4 +272,4 @@ This repository intentionally avoids:
 Alexandre Souza
 Software Architect | Senior Software Engineer
 GitHub: [@ALRSO85](https://github.com/ALRSO85)
-LinkedIn: [alexandrerobertosouza](https://www.linkedin.com/in/alexandre-roberto-souza-software-engineer/)
+LinkedIn: [alexandre-roberto-souza-software-engineer](https://www.linkedin.com/in/alexandre-roberto-souza-software-engineer/)
