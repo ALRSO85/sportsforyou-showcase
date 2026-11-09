@@ -25,6 +25,8 @@ O deploy documentado publica a Sport.UI e o JobCenter como serviços distintos. 
 
 **Princípio arquitetural:** componentes com responsabilidades e ciclos de execução diferentes podem ter fronteiras operacionais explícitas. Essa separação também acrescenta um serviço que precisa ser configurado e acompanhado; não implica, por si só, aumento medido de escala ou disponibilidade.
 
+**Aprendizado técnico que o case evidencia:** separar processos exige também desenhar como cada serviço é publicado, observado e recuperado. Uma fronteira arquitetural útil precisa ser operável, não apenas visível no diagrama.
+
 ### Resposta curta sugerida
 
 > Na plataforma, mantive os módulos de negócio na aplicação web e separei o processamento assíncrono no JobCenter, implementado como um .NET Worker. A decisão deixa o ciclo operacional do Worker explícito: ele tem container e health check próprios. O trade-off é operar mais um serviço, então a separação precisa vir acompanhada de observabilidade e publicação coordenada. O showcase documenta essa fronteira, mas não atribui a ela ganhos quantitativos de disponibilidade ou desempenho.
