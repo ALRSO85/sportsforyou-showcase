@@ -64,96 +64,19 @@ This repository demonstrates my ability to:
 * Use Linux, Ubuntu Server, Docker and containerized environments in development and platform scenarios
 * Use AI-assisted workflows to support documentation, log analysis, architecture planning and software engineering decisions
 
-## Technology stack
+## Technology stack in this product
 
-### Backend
+This section describes technologies documented in the SportsForYou codebase; it is not a complete list of the author's professional experience.
 
-* .NET / C#
-* ASP.NET Core
-* ASP.NET MVC
-* Web APIs
-* WCF
-* Windows Services
-* Background services / workers
-* Authentication and authorization
+* **Application:** C#, .NET 10, ASP.NET Core MVC, Razor Views, modular domain projects and a .NET Worker for background jobs.
+* **Frontend:** Razor, JavaScript, Bootstrap 5.3.8, jQuery 3.7.1 and responsive UI patterns.
+* **Data:** SQL Server is the production provider. MySQL support exists for compatible scenarios and abstraction tests; it is not presented as the production database.
+* **Integrations:** Google Drive API, AWS S3 and HTTP clients for external services.
+* **Delivery:** Docker and Docker Compose, Azure Pipelines, PowerShell deployment tooling and health checks.
+* **Quality:** xUnit v3, Playwright and axe-core checks for the automated accessibility scope.
+* **Security:** ASP.NET Core authentication, OpenID Connect, JWT, antiforgery, Content Security Policy, rate limiting and persistent Data Protection.
 
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* Responsive UI
-* Accessibility
-* SEO technical structure
-
-### Database
-
-* SQL Server
-* Oracle
-* MySQL
-* MongoDB
-* Database scripts
-* Metadata-driven screens
-* Index and performance checks
-* Audit and governance structures
-
-### Infrastructure and containers
-
-* Linux
-* Ubuntu Server
-* Docker
-* Docker Compose
-* Containerized environments
-* Self-hosted development environments
-* Local server configuration and maintenance
-
-### DevOps and automation
-
-* Git
-* GitHub
-* GitHub Actions
-* Azure DevOps
-* Jenkins
-* PowerShell
-* CI/CD concepts
-* Quality gates
-* Runtime smoke tests
-* Release validation scripts
-
-### Cloud and platform engineering
-
-* Azure
-* AWS
-* Cloud architecture
-* Platform engineering
-* DevSecOps
-* GitOps
-* Terraform
-* Kubernetes
-* SonarQube
-* Observability
-* Security hardening
-
-### Architecture and engineering practices
-
-* Modular architecture
-* Distributed systems
-* Domain-oriented modules
-* Technical governance
-* Performance analysis
-* Code reviews
-* Legacy modernization
-* System scalability and resilience
-
-### AI-assisted engineering
-
-* LLM-assisted development workflow
-* Local AI experimentation
-* Code review support
-* Documentation generation
-* Log analysis
-* Architecture planning
+Other technologies may be relevant to the author's broader experience, but they are not listed here as part of this product's stack without project evidence.
 
 ## Architecture highlights
 
