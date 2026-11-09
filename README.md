@@ -72,7 +72,7 @@ This section describes technologies documented in the SportsForYou codebase; it 
 * **Frontend:** Razor, JavaScript, Bootstrap 5.3.8, jQuery 3.7.1 and responsive UI patterns.
 * **Data:** SQL Server is the production provider. MySQL support exists for compatible scenarios and abstraction tests; it is not presented as the production database.
 * **Integrations:** Google Drive API, AWS S3 and HTTP clients for external services.
-* **Delivery:** Docker and Docker Compose on Ubuntu Server, Azure Pipelines, PowerShell deployment tooling and health checks.
+* **Delivery:** Docker and Docker Compose on Ubuntu Server, Cloudflare Tunnel for ingress, Azure Pipelines, PowerShell deployment tooling and health checks.
 * **Quality:** xUnit v3, Playwright and axe-core checks for the automated accessibility scope.
 * **Security:** ASP.NET Core authentication, OpenID Connect, JWT, antiforgery, Content Security Policy, rate limiting and persistent Data Protection.
 
