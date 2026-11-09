@@ -126,6 +126,7 @@ sportsforyou-showcase/
   README.md
   docs/
     architecture.md
+    architecture-map.md
     modules.md
     quality-gates.md
     frontend-seo-accessibility.md
@@ -148,6 +149,7 @@ sportsforyou-showcase/
 
 ## Documentation
 
+* [Architecture Map](docs/architecture-map.md) (Mermaid diagram)
 * [Architecture Overview](docs/architecture.md)
 * [Modules Overview](docs/modules.md)
 * [Quality Gates and Automation](docs/quality-gates.md)

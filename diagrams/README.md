@@ -1,18 +1,5 @@
 # Diagrams
 
-Add architecture diagrams here.
+The current high-level architecture diagram is maintained in [Architecture Map](../docs/architecture-map.md) and rendered with Mermaid.
 
-Recommended diagrams:
-
-- High-level platform architecture
-- Module map
-- Dynamic UI runtime flow
-- Quality gates flow
-- Database governance flow
-- Deployment overview
-
-Recommended formats:
-
-- PNG for easy visualization
-- SVG for scalable diagrams
-- Mermaid diagrams inside Markdown when possible
+Keep diagrams beside the documentation they explain when that makes them easier to maintain. Use separate assets here for visuals shared across multiple documents.
