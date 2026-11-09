@@ -4,6 +4,8 @@ Public and sanitized technical showcase of **SportsForYou**, a modular sports te
 
 > This repository is an interview-oriented technical showcase. It does not expose private source code, production credentials, private business rules, customer data or sensitive infrastructure details.
 
+> **Prefer Portuguese?** Read the [interview overview in Brazilian Portuguese](docs/interview-talking-points-ptbr.md).
+
 ## Why this repository exists
 
 The purpose of this repository is to present the technical thinking, architecture decisions, engineering practices and product vision behind SportsForYou in a safe and public format.
