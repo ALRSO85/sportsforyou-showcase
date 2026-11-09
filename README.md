@@ -37,6 +37,10 @@ The platform is designed to support multiple audiences:
 
 The long-term vision is to connect sports data, events, communities, opportunities and social impact in a single ecosystem.
 
+## My contribution
+
+I am responsible for the product design, architecture and construction.
+
 ## Technical positioning
 
 This showcase presents SportsForYou as an enterprise-grade platform initiative with emphasis on:
