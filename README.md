@@ -113,6 +113,10 @@ Examples of engineering concerns:
 * Background jobs
 * Infrastructure and deployment readiness
 
+## Architecture decision — independent background processing
+
+Business modules remain within the modular web application, while asynchronous jobs run in a dedicated .NET Worker service (`Sport.Worker.JobCenter`). The worker has its own container, health check and operating lifecycle in Docker Compose.
+
 ## Repository structure
 
 ```text
