@@ -22,7 +22,7 @@ This page describes technologies documented in the SportsForYou codebase. It is 
 
 ## Delivery and quality
 
-- Docker and Docker Compose package the web application and background worker.
+- Docker and Docker Compose package the web application and background worker for hosting on Ubuntu Server.
 - Azure Pipelines run restore, build, tests and project quality checks.
 - xUnit v3 is used for .NET tests; Playwright and axe-core cover browser and automated accessibility checks.
 - PowerShell and Bash scripts support controlled deployment, health checks and release validation.
