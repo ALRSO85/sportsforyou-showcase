@@ -71,9 +71,3 @@ Important checks:
 - Responsive content flow
 - Avoiding text overlap
 - Avoiding color-on-background conflicts
-
-## Interview angle
-
-This area demonstrates the ability to connect engineering quality with user experience, marketing visibility and product adoption.
-
-It is not only about making pages look better. It is about creating a platform that is easier to use, easier to find, easier to maintain and safer to evolve.

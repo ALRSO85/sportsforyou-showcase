@@ -82,17 +82,3 @@ Examples:
 8. Review logs
 9. Package release candidate
 ```
-
-## Engineering value
-
-Quality gates help convert individual experience into repeatable engineering practice.
-
-They are especially useful in platforms with:
-
-- Many modules
-- Dynamic UI metadata
-- Multiple database scripts
-- Integration points
-- Operational dashboards
-- Continuous visual adjustments
-- Production-readiness requirements
